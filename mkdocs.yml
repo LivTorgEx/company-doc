@@ -1,0 +1,20 @@
+site_name: Company Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Company Auth: auth.md
+  - REST API: openapi.md
+  - WebSocket: websocket.md
+  - Scenario: scenario.md
+  - Use Cases:
+      - Authentication: use-cases/auth.md
+      - Bots: use-cases/bots.md
+      - Strategy NFTs: use-cases/strategy-nft.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
