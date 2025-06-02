@@ -2,7 +2,7 @@
 
 # 🔌 WebSocket Integration
 
-LivTorgEx also provides real-time updates via WebSocket.
+Platform also provides real-time updates via WebSocket.
 
 📄 [View WebSocket Message Documentation](https://gist.github.com/inthedark122/46c3250b9b78dd2ac8f0199545ec476f)
 
